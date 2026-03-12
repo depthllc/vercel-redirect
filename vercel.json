@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.depth.ai/$1",
+      "permanent": true
+    }
+  ]
+}
